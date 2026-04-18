@@ -42,3 +42,13 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Local maintenance scripts and logs
+/restore.sh
+/start.sh
+/trash_restore.sh
+/trash_start.sh
+/server.log
+
+*Zone.Identifier
+

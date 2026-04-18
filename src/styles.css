@@ -1,59 +1,49 @@
 @import 'tailwindcss';
 
 /* ═══════════════════════════════════════════
-   MONTSE PORTFOLIO — DESIGN SYSTEM
+   MONTSE PORTFOLIO   DESIGN SYSTEM
    Light, colorful, readable "Montreal Tech"
    ═══════════════════════════════════════════ */
 
 @theme {
-  /* ── Color System ── */
-  --color-primary-50: #f0f0ff;
-  --color-primary-100: #e0e0ff;
-  --color-primary-200: #c7c4ff;
-  --color-primary-300: #a89dff;
-  --color-primary-400: #8b6fff;
-  --color-primary-500: #7c3aed;
-  --color-primary-600: #6d28d9;
-  --color-primary-700: #5b21b6;
-  --color-primary-800: #4c1d95;
-  --color-primary-900: #3b0f7a;
+  /* ── Color System: The Sober Theme ── */
+  --color-slate-950: #1A1A1B;
+  --color-slate-900: #232324;
+  --color-slate-800: #333334;
+  --color-slate-700: #4a4a4b;
+  --color-slate-600: #666668;
+  --color-slate-500: #8c8c8e;
+  --color-slate-400: #a1a1a4;
+  --color-slate-300: #c6c6c8;
+  --color-slate-200: #dfdfe0;
+  --color-slate-100: #f1f1f2;
+  --color-slate-50:  #FAFAFA;
 
-  --color-coral-50: #fff7ed;
-  --color-coral-100: #ffedd5;
-  --color-coral-200: #fed7aa;
-  --color-coral-300: #fdba74;
-  --color-coral-400: #fb923c;
-  --color-coral-500: #f97316;
-  --color-coral-600: #ea580c;
+  /* Accent: Muted Sage Green */
+  --color-primary-50: #f4f6f5;
+  --color-primary-100: #e3e9e5;
+  --color-primary-200: #c7d2cc;
+  --color-primary-300: #a1b4ab;
+  --color-primary-400: #7b9487;
+  --color-primary-500: #587567;
+  --color-primary-600: #425b50;
+  --color-primary-700: #364941;
+  --color-primary-800: #2e3c36;
+  --color-primary-900: #27332d;
 
-  --color-sparkle-50: #fffbeb;
-  --color-sparkle-100: #fef3c7;
-  --color-sparkle-200: #fde68a;
-  --color-sparkle-300: #fcd34d;
-  --color-sparkle-400: #fbbf24;
-  --color-sparkle-500: #f59e0b;
-
-  --color-teal-50: #f0fdfa;
-  --color-teal-100: #ccfbf1;
-  --color-teal-200: #99f6e4;
-  --color-teal-300: #5eead4;
-  --color-teal-400: #2dd4bf;
-  --color-teal-500: #14b8a6;
-  --color-teal-600: #0d9488;
-
-  --color-surface: #fafbfd;
-  --color-surface-warm: #fef9f6;
-  --color-surface-cool: #f5f3ff;
+  --color-surface: #ffffff;
+  --color-surface-warm: #fafafa;
+  --color-surface-cool: #f8f9fa;
 
   /* ── Typography ── */
-  --font-heading: 'Space Grotesk', system-ui, sans-serif;
+  --font-heading: 'Inter', system-ui, sans-serif;
   --font-body: 'Inter', system-ui, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
 
-  /* ── Spacing & Radius ── */
-  --radius-glass: 1.25rem;
-  --radius-card: 1rem;
-  --radius-pill: 9999px;
+  /* ── Spacing & Sharp Constraints ── */
+  --radius-glass: 0.25rem;
+  --radius-card: 0px;
+  --radius-pill: 0.25rem;
 }
 
 /* ── Base ── */
@@ -105,16 +95,17 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(180deg, #fafbfd 0%, #fef9f6 50%, #fff7ed 100%);
 }
 
+/* ── Sober Base Overrides ── */
 .section-gradient-cool {
-  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 50%, #f1f5f9 100%);
+  background-color: var(--color-slate-50);
 }
 
 .section-gradient-teal {
-  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 50%, #f1f5f9 100%);
+  background-color: var(--color-surface-warm);
 }
 
 .section-gradient-tender {
-  background: linear-gradient(180deg, #f1f5f9 0%, #f8fafc 50%, #ffffff 100%);
+  background-color: var(--color-surface-cool);
 }
 
 /* ── Sparkle Particles ── */
@@ -200,17 +191,17 @@ h1, h2, h3, h4, h5, h6 {
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #f5f3ff;
+  background: #f4f6f5; /* primary-50 */
 }
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, #c7c4ff, #7c3aed);
-  border-radius: 4px;
+  background: linear-gradient(180deg, #a1b4ab, #587567);
+  border-radius: 0px;
 }
 
 /* ── Custom Selection ── */
 ::selection {
-  background: rgba(124, 58, 237, 0.15);
-  color: #4c1d95;
+  background: rgba(88, 117, 103, 0.2);
+  color: #27332d;
 }
 
 /* ── 3D Card Flip ── */

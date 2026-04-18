@@ -39,10 +39,10 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
 
   navLinks = [
     { id: 'about', key: 'nav.about' },
-    { id: 'journey', key: 'nav.journey' },
-    { id: 'playground', key: 'nav.skills' },
+    { id: 'trust-signals', key: 'nav.expertise' },
+    { id: 'playground', key: 'nav.data' },
     { id: 'projects', key: 'nav.projects' },
-    { id: 'credentials', key: 'nav.credentials' },
+    { id: 'gallery', key: 'nav.credentials' },
     { id: 'contact', key: 'nav.contact' },
   ];
 
@@ -85,13 +85,13 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
   credentials = [
     { image: 'assets/images/vet-degree.png', title: 'Doctor of Veterinary Medicine Degree' },
     { image: 'assets/images/cert-microsoft-365-administration.jpg', title: 'Microsoft 365 Administration' },
-    { image: 'assets/images/cert-administrative-human-resources.jpg', title: 'Administrative & Human Resources' },
+    { image: 'assets/images/cert-administrative-human-resources.jpg', title: 'Administrative and Human Resources' },
     { image: 'assets/images/cert-ai-marketing.jpg', title: 'AI Marketing' },
-    { image: 'assets/images/cert-excel-copilot-pivot-tables.jpg', title: 'Excel Copilot & Pivot Tables' },
+    { image: 'assets/images/cert-excel-copilot-pivot-tables.jpg', title: 'Excel Copilot and Pivot Tables' },
     { image: 'assets/images/cert-google-ads-display.png', title: 'Google Ads Display' },
     { image: 'assets/images/cert-data-driven-research-design.png', title: 'Data-Driven Research Design' },
     { image: 'assets/images/cert-digital-marketing-simternship.png', title: 'Digital Marketing Simternship' },
-    { image: 'assets/images/cert-ai-ads.png', title: 'AI Automation & Ads' },
+    { image: 'assets/images/cert-ai-ads.png', title: 'AI Automation and Ads' },
     { image: 'assets/images/cert-digital-marketing-foundations.png', title: 'Digital Marketing Foundations' },
     { image: 'assets/images/cert-greystone.png', title: 'Greystone College Certificate' },
     { image: 'assets/images/cert-client-service.png', title: 'Client Service Excellence' },
@@ -124,6 +124,10 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
     },
   ];
 
+  getSkillChips(commaString: string): string[] {
+    if (!commaString) return [];
+    return commaString.replace(/\.$/, '').split(',').map(s => s.trim());
+  }
   private sparkleInterval: any;
 
   ngOnInit(): void {

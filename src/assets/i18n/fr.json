@@ -1,8 +1,9 @@
 {
   "nav": {
     "about": "À propos",
-    "journey": "Parcours",
-    "skills": "Compétences",
+    "journey": "Mon parcours",
+    "expertise": "Expertise",
+    "data": "Excel",
     "projects": "Projets",
     "credentials": "Certifications",
     "contact": "Contact"
@@ -10,14 +11,14 @@
   "hero": {
     "greeting": "Bonjour, je suis",
     "name": "Montse",
-    "tagline": "Professionnelle en succès client et opérations",
-    "subtitle": "Je me connecte naturellement avec les gens et transforme les défis en résultats positifs :)",
+    "tagline": "Connecter le service centré sur l'humain à la croissance stratégique.",
+    "subtitle": "Je suis quelqu'un qui apporte du calme, de la clarté et une énergie positive dans chaque interaction client :)",
     "cta": "Découvrir mon parcours",
     "badges": {
-      "dvm": "Docteure en médecine vétérinaire",
-      "trilingual": "EN · FR · ES",
-      "zumba": "Instructrice Zumba certifiée",
-      "data": "Spécialiste du service client"
+      "data": "Stratégie de succès client",
+      "dvm": "Croissance du marché",
+      "trilingual": "Trilingue (EN/FR/ES)",
+      "zumba": "Efficacité opérationnelle"
     }
   },
   "about": {
@@ -31,13 +32,13 @@
     },
     "tech": {
       "title": "L'avantage tech et données",
-      "text": "Avec une formation en marketing digital et e-commerce, je fais le pont entre les données et la connexion humaine. Excel est mon terrain de jeu préféré."
+      "text": "Avec une formation en marketing digital et e-commerce, je fais le pont entre les données et la connexion humaine, en utilisant Excel avancé."
     }
   },
   "journey": {
     "sectionLabel": "Au-delà du CV",
     "title": "Mon parcours",
-    "narrative": "Immigrer au Canada en tant que <strong>vétérinaire formée à l'étranger (DVM)</strong> a été une véritable masterclass en <strong>adaptabilité, résilience et communication</strong>. <br><br>J'ai vécu de première main ce que c'est que de naviguer dans de nouveaux systèmes, de nouvelles langues et des environnements inconnus — et c'est exactement ce qui a façonné mon approche des rôles orientés vers <strong>le succès client</strong>.",
+    "narrative": "Immigrer au Canada en tant que <strong>vétérinaire formée à l'étranger (DVM)</strong> a été une véritable masterclass en <strong>adaptabilité, résilience et communication</strong>. <br><br>J'ai vécu de première main ce que c'est que de naviguer dans de nouveaux systèmes, de nouvelles langues et des environnements inconnus, et c'est exactement ce qui a façonné mon approche des rôles orientés vers <strong>le succès client</strong>.",
     "quote": "Je ne fais pas que résoudre des problèmes ; j'accompagne les gens dans leurs moments de confusion, d'incertitude ou de frustration avec <strong>patience, clarté et empathie</strong>.",
     "sparkle": "Mes anciens mentors décrivent souvent ma présence comme ayant une <strong>« étincelle »</strong>, mais je vois cela comme une passion sincère pour rendre la journée des gens <strong>plus facile, plus calme et meilleure</strong>."
   },
@@ -45,7 +46,7 @@
     "sectionLabel": "Le terrain de jeu des données",
     "title": "Efficacité d'affaires via Excel",
     "subtitle": "Transformer des données désordonnées en outils stratégiques",
-    "description": "Je développe des trackers automatisés et des tableaux de bord avec Excel avancé — Tableaux croisés dynamiques, RECHERCHEV, Logique complexe.",
+    "description": "Je développe des trackers automatisés et des tableaux de bord avec Excel avancé: Tableaux croisés dynamiques, RECHERCHEV, Logique complexe.",
     "funFact": "Fait amusant : J'adore Excel, c'est comme mon petit terrain de jeu favori.",
     "impact": "Réduction du temps de reporting manuel et amélioration de la précision du suivi des indicateurs clés.",
     "skills": {
@@ -76,7 +77,7 @@
     "toolkit": {
       "title": "Boîte à outils technique",
       "excel": "Excel avancé",
-      "excelDetail": "Tableaux croisés dynamiques, RECHERCHEV, formules complexes — mon terrain de jeu favori.",
+      "excelDetail": "Tableaux croisés dynamiques, RECHERCHEV, formules complexes",
       "crm": "CRMs",
       "crmDetail": "Maîtrise de Salesforce et HubSpot pour la gestion de pipeline clients.",
       "dataAi": "Données et IA",
@@ -125,8 +126,8 @@
   },
   "contact": {
     "sectionLabel": "Connectons-nous",
-    "title": "Prête à plonger",
-    "tagline": "Toujours prête à plonger dans de nouveaux systèmes, des données désordonnées et des relations client à enjeux élevés.",
+    "title": "Connectons-nous",
+    "tagline": "Là pour soutenir, résoudre et simplifier.",
     "cta": "Connectons-nous !",
     "linkedin": "LinkedIn",
     "email": "Courriel",

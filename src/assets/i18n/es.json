@@ -1,8 +1,9 @@
 {
   "nav": {
     "about": "Sobre mí",
-    "journey": "Trayectoria",
-    "skills": "Habilidades",
+    "journey": "Mi trayectoria",
+    "expertise": "Experiencia",
+    "data": "Excel",
     "projects": "Proyectos",
     "credentials": "Credenciales",
     "contact": "Contacto"
@@ -10,14 +11,14 @@
   "hero": {
     "greeting": "Hola, soy",
     "name": "Montse",
-    "tagline": "Profesional de éxito del cliente y operaciones",
-    "subtitle": "Conecto naturalmente con las personas y transformo los desafíos en resultados positivos :)",
+    "tagline": "Conectando el servicio humano con el crecimiento estratégico.",
+    "subtitle": "Soy alguien que aporta calma, claridad y energía positiva a cada interacción con el cliente :)",
     "cta": "Explorar mi trayectoria",
     "badges": {
-      "dvm": "Médica Veterinaria Zootecnista",
-      "trilingual": "EN · FR · ES",
-      "zumba": "Instructora Zumba certificada",
-      "data": "Especialista en servicio al cliente"
+      "dvm": "Crecimiento del Mercado",
+      "trilingual": "Trilingüe (EN/FR/ES)",
+      "zumba": "Eficiencia Operativa",
+      "data": "Estrategia de Éxito del Cliente"
     }
   },
   "about": {
@@ -31,7 +32,7 @@
     },
     "tech": {
       "title": "La ventaja tech y datos",
-      "text": "Con formación en marketing digital y e-commerce, conecto los datos con la conexión humana. Excel es mi playground favorito."
+      "text": "Con formación en marketing digital y e-commerce, conecto los datos con la conexión humana, usando Excel avanzado."
     }
   },
   "journey": {
@@ -45,7 +46,7 @@
     "sectionLabel": "El playground de datos",
     "title": "Eficiencia empresarial vía Excel",
     "subtitle": "Convirtiendo datos desordenados en herramientas estratégicas",
-    "description": "Desarrollo trackers automatizados y dashboards usando Excel avanzado — Tablas dinámicas, BUSCARV, Lógica compleja.",
+    "description": "Desarrollo trackers automatizados y dashboards usando Excel avanzado: Tablas dinámicas, BUSCARV, Lógica compleja.",
     "funFact": "Dato curioso: Me encanta Excel, es como mi pequeño playground favorito.",
     "impact": "Reducción del tiempo de reportes manuales y mejora en la precisión del seguimiento de indicadores clave.",
     "skills": {
@@ -76,7 +77,7 @@
     "toolkit": {
       "title": "Kit de herramientas técnicas",
       "excel": "Excel avanzado",
-      "excelDetail": "Tablas dinámicas, BUSCARV, fórmulas complejas — mi playground favorito.",
+      "excelDetail": "Tablas dinámicas, BUSCARV, fórmulas complejas",
       "crm": "CRMs",
       "crmDetail": "Dominio de Salesforce y HubSpot para gestión de pipeline de clientes.",
       "dataAi": "Datos e IA",
@@ -125,8 +126,8 @@
   },
   "contact": {
     "sectionLabel": "Conectemos",
-    "title": "Lista para sumergirme",
-    "tagline": "Siempre lista para sumergirme en nuevos sistemas, datos desordenados y relaciones con clientes de alto impacto.",
+    "title": "Conectemos",
+    "tagline": "Aquí para apoyar, resolver y simplificar.",
     "cta": "¡Conectemos!",
     "linkedin": "LinkedIn",
     "email": "Correo",

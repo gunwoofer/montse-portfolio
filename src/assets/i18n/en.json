@@ -1,37 +1,38 @@
 {
   "nav": {
     "about": "About",
-    "journey": "Journey",
-    "skills": "Skills",
+    "journey": "My Journey",
+    "expertise": "Expertise",
+    "data": "Excel",
     "projects": "Projects",
     "credentials": "Credentials",
     "contact": "Contact"
   },
   "hero": {
-    "greeting": "Hello, I'm",
+    "greeting": "Hi, I'm",
     "name": "Montse",
-    "tagline": "Customer Success & Operations Professional",
-    "subtitle": "I naturally connect with people and turn challenges into positive outcomes :)",
+    "tagline": "Connecting Human-Centric Service with Strategic Growth.",
+    "subtitle": "I'm someone who brings calm, clarity, and positive energy into every client interaction :)",
     "cta": "Explore My Journey",
     "badges": {
-      "dvm": "Doctor of Veterinary Medicine",
-      "trilingual": "EN · FR · ES",
-      "zumba": "Licensed Zumba Instructor",
-      "data": "Customer Service Specialist"
+      "data": "Customer Success Strategy",
+      "dvm": "Market Growth",
+      "trilingual": "Trilingual (EN/FR/ES)",
+      "zumba": "Operational Efficiency"
     }
   },
   "about": {
     "sectionLabel": "Who I Am",
-    "title": "Operations & Client Success",
-    "intro": "I am an Operations & Client Success professional with a hybrid background in high-end hospitality, e-commerce, and veterinary medicine.",
+    "title": "Operations and Client Success",
+    "intro": "I am an Operations and Client Success professional with a hybrid background in high-end hospitality, e-commerce, and veterinary medicine.",
     "goal": "My career is built on a simple but powerful goal: streamlining complex processes so that people leave happier and more successful than they arrived.",
     "clinical": {
-      "title": "Clinical Discipline & High-Energy Leadership",
+      "title": "Clinical Discipline and High-Energy Leadership",
       "text": "As a foreign-trained Veterinarian (DVM) and a Licensed Zumba Instructor, I bring a unique blend of analytical precision and contagious vitality to everything I do. I don't just resolve tasks; I lead with energy and empathy."
     },
     "tech": {
-      "title": "The Tech & Data Edge",
-      "text": "With a background in Digital Marketing & E-commerce, I bridge the gap between data and human connection. I specialize in improving the 'behind-the-scenes' of a business, using Excel as my favorite playground."
+      "title": "The Tech and Data Edge",
+      "text": "With a background in Digital Marketing and E-commerce, I bridge the gap between data and human connection. I specialize in improving the 'behind-the-scenes' of a business, leveraging advanced Excel."
     }
   },
   "journey": {
@@ -45,7 +46,7 @@
     "sectionLabel": "The Data Playground",
     "title": "Business Efficiency via Excel",
     "subtitle": "Turning messy data into strategic tools",
-    "description": "I develop custom automated trackers and dashboards using advanced Excel — Pivot Tables, VLOOKUPs, Complex Logic.",
+    "description": "I develop custom automated trackers and dashboards using advanced Excel: Pivot Tables, VLOOKUPs, Complex Logic.",
     "funFact": "Fun fact: I love Excel and it is like my favorite little playground.",
     "impact": "Reduced manual reporting time and improved accuracy in tracking key business metrics.",
     "skills": {
@@ -58,28 +59,28 @@
     }
   },
   "skills": {
-    "sectionLabel": "Skills & Credentials",
+    "sectionLabel": "Skills and Credentials",
     "title": "What I Bring to the Table",
     "education": {
       "title": "Professional Education",
       "dvm": "Doctor of Veterinary Medicine (DVM)",
-      "digital": "Digital Marketing & E-commerce Certificate"
+      "digital": "Digital Marketing and E-commerce Certificate"
     },
     "certifications": {
       "title": "Core Certifications",
       "data": "Google Data Analytics Professional Certificate",
-      "excel": "Advanced Excel & Business Intelligence",
+      "excel": "Advanced Excel and Business Intelligence",
       "service": "Customer Service Excellence Certification",
-      "client": "Strategic Client Relations & Communication",
+      "client": "Strategic Client Relations and Communication",
       "zumba": "Zumba + First Aid"
     },
     "toolkit": {
       "title": "Technical Toolkit",
       "excel": "Advanced Excel",
-      "excelDetail": "Pivot Tables, VLOOKUPs, Complex Formulas — my favorite playground for efficiency.",
+      "excelDetail": "Pivot Tables, VLOOKUPs, Complex Formulas",
       "crm": "CRMs",
       "crmDetail": "Proficient in Salesforce and HubSpot for client pipeline management.",
-      "dataAi": "Data & AI",
+      "dataAi": "Data and AI",
       "dataAiDetail": "Familiar with Google Analytics and AI-driven productivity tools.",
       "languages": "Languages",
       "languagesDetail": "French · English · Spanish"
@@ -96,14 +97,14 @@
       "competencies": "Strategic Sales, Supply Chain Management, B2B Sales, Entrepreneurship."
     },
     "hospitality": {
-      "title": "Operational Excellence | Hospitality & Front Desk",
+      "title": "Operational Excellence | Hospitality and Front Desk",
       "environment": "Fast-paced hospitality operations, requiring constant trilingual (EN/FR/ES) communication.",
-      "impact": "I act as the \"operational engine\" of the front desk. My focus is on resolving complex guest issues with extreme empathy while maintaining strict administrative accuracy. My supervisors recognize my \"sparkle\"—the ability to turn a crisis into a positive guest experience.",
+      "impact": "I act as the \"operational engine\" of the front desk. My focus is on resolving complex guest issues with extreme empathy while maintaining strict administrative accuracy. My supervisors recognize my \"sparkle\", that is the ability to turn a crisis into a positive guest experience.",
       "result": "Consistent 5-star guest satisfaction and a streamlined administrative workflow.",
       "competencies": "Conflict Resolution, Trilingual Communication, Office Administration, Relationship Building."
     },
     "atd": {
-      "title": "Front Desk & Operational Support | ATD Clubhouse",
+      "title": "Front Desk and Operational Support | ATD Clubhouse",
       "experience": "I joined ATD Clubhouse during its opening phase. Being part of a new business meant I had to be versatile, handling everything from the first customer greetings to the daily organization of the facility.",
       "operations": "Built the initial administrative foundations: managed member accounts, scheduling, and payments from day one.",
       "client": "Leveraged my veterinary background to build immediate trust with pet owners, directly increasing the initial client base.",
@@ -121,12 +122,12 @@
   },
   "credentials": {
     "sectionLabel": "Credential Gallery",
-    "title": "Certificates & Achievements"
+    "title": "Certificates and Achievements"
   },
   "contact": {
     "sectionLabel": "Let's Connect",
-    "title": "Ready to Dive In",
-    "tagline": "Always ready to dive into new systems, messy data, and high-stakes client relations.",
+    "title": "Let's Connect",
+    "tagline": "Here to support, solve, and simplify.",
     "cta": "Let's connect!",
     "linkedin": "LinkedIn",
     "email": "Email",
