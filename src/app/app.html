@@ -333,9 +333,7 @@
                          [ngClass]="expandedProject() === project.id ? 'rotate-y-180' : ''">
                          
                         <!-- FRONT FACE -->
-                        <div class="absolute inset-0 backface-hidden flex flex-col overflow-hidden bg-white border border-slate-200 shadow-sm rounded-none" 
-                             [class.pointer-events-none]="expandedProject() === project.id"
-                             [class.invisible]="expandedProject() === project.id">
+                        <div class="absolute inset-0 backface-hidden flex flex-col overflow-hidden bg-white border border-slate-200 shadow-sm rounded-none">
                             <!-- Image Header -->
                             <div class="h-64 overflow-hidden relative shrink-0">
                                 <div class="absolute inset-0 bg-slate-900/40 z-10"></div>
@@ -382,9 +380,7 @@
                         </div>
 
                         <!-- BACK FACE -->
-                        <div class="absolute inset-0 backface-hidden rotate-y-180 flex flex-col overflow-y-auto overscroll-none custom-scrollbar bg-slate-50 border border-slate-200 cursor-pointer" 
-                             [class.pointer-events-none]="expandedProject() !== project.id"
-                             [class.invisible]="expandedProject() !== project.id">
+                        <div class="absolute inset-0 backface-hidden rotate-y-180 flex flex-col overflow-y-auto overscroll-none custom-scrollbar bg-slate-50 border border-slate-200 cursor-pointer">
                             <div class="h-1 w-full shrink-0 bg-primary-600"></div>
                             
                             <!-- Scrollable Content -->

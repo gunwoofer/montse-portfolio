@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
 /* ═══════════════════════════════════════════
-   MONTSE PORTFOLIO   DESIGN SYSTEM
+   MONTSE PORTFOLIO — DESIGN SYSTEM
    Light, colorful, readable "Montreal Tech"
    ═══════════════════════════════════════════ */
 
@@ -210,10 +210,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .preserve-3d {
   transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
 .backface-hidden {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
+  /* Hardware acceleration and 3D layer separation for Safari */
+  transform: translateZ(1px);
+  -webkit-transform: translateZ(1px);
 }
 .rotate-y-180 {
   transform: rotateY(180deg);
