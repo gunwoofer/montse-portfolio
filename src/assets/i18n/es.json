@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "journey": "Trayectoria",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "credentials": "Credenciales",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Montse",
+    "tagline": "Profesional de éxito del cliente y operaciones",
+    "subtitle": "Conecto naturalmente con las personas y transformo los desafíos en resultados positivos :)",
+    "cta": "Explorar mi trayectoria",
+    "badges": {
+      "dvm": "Médica Veterinaria Zootecnista",
+      "trilingual": "EN · FR · ES",
+      "zumba": "Instructora Zumba certificada",
+      "data": "Especialista en servicio al cliente"
+    }
+  },
+  "about": {
+    "sectionLabel": "Quién soy",
+    "title": "Operaciones y éxito del cliente",
+    "intro": "Soy una profesional de operaciones y éxito del cliente con experiencia híbrida en hotelería de alto nivel, e-commerce y medicina veterinaria.",
+    "goal": "Mi carrera está construida sobre un objetivo simple pero poderoso: optimizar procesos complejos para que las personas se vayan más felices y exitosas.",
+    "clinical": {
+      "title": "Disciplina clínica y liderazgo de alta energía",
+      "text": "Como veterinaria formada en el extranjero (MVZ) e instructora certificada de Zumba, aporto una mezcla única de precisión analítica y vitalidad contagiosa a todo lo que hago."
+    },
+    "tech": {
+      "title": "La ventaja tech y datos",
+      "text": "Con formación en marketing digital y e-commerce, conecto los datos con la conexión humana. Excel es mi playground favorito."
+    }
+  },
+  "journey": {
+    "sectionLabel": "Más allá del CV",
+    "title": "Mi trayectoria",
+    "narrative": "Emigrar a Canadá como <strong>veterinaria formada en el extranjero (MVZ)</strong> ha sido una verdadera clase magistral en <strong>adaptabilidad, resiliencia y comunicación</strong>. <br><br>He experimentado de primera mano lo que se siente al navegar nuevos sistemas, nuevos idiomas y entornos desconocidos, y eso es exactamente lo que moldeó mi enfoque hacia <strong>el éxito del cliente y roles de servicio</strong>.",
+    "quote": "No solo resuelvo problemas; acompaño a las personas en sus momentos de confusión, incertidumbre o frustración con <strong>paciencia, claridad y empatía</strong>.",
+    "sparkle": "Mis antiguos mentores suelen describir mi presencia como tener una <strong>'chispa'</strong>, pero lo veo como una pasión genuina por hacer el día de las personas <strong>más fácil, más tranquilo y mejor</strong>."
+  },
+  "playground": {
+    "sectionLabel": "El playground de datos",
+    "title": "Eficiencia empresarial vía Excel",
+    "subtitle": "Convirtiendo datos desordenados en herramientas estratégicas",
+    "description": "Desarrollo trackers automatizados y dashboards usando Excel avanzado — Tablas dinámicas, BUSCARV, Lógica compleja.",
+    "funFact": "Dato curioso: Me encanta Excel, es como mi pequeño playground favorito.",
+    "impact": "Reducción del tiempo de reportes manuales y mejora en la precisión del seguimiento de indicadores clave.",
+    "skills": {
+      "pivot": "Tablas dinámicas",
+      "vlookup": "BUSCARV",
+      "formulas": "Fórmulas complejas",
+      "automation": "Automatización",
+      "dashboards": "Dashboards",
+      "reporting": "Reportes de negocio"
+    }
+  },
+  "skills": {
+    "sectionLabel": "Habilidades y credenciales",
+    "title": "Lo que aporto",
+    "education": {
+      "title": "Formación profesional",
+      "dvm": "Médica Veterinaria Zootecnista (MVZ)",
+      "digital": "Certificado en marketing digital y e-commerce"
+    },
+    "certifications": {
+      "title": "Certificaciones principales",
+      "data": "Certificado profesional Google Data Analytics",
+      "excel": "Excel avanzado e inteligencia de negocios",
+      "service": "Certificación en excelencia de servicio al cliente",
+      "client": "Relaciones estratégicas con clientes y comunicación",
+      "zumba": "Zumba + Primeros auxilios"
+    },
+    "toolkit": {
+      "title": "Kit de herramientas técnicas",
+      "excel": "Excel avanzado",
+      "excelDetail": "Tablas dinámicas, BUSCARV, fórmulas complejas — mi playground favorito.",
+      "crm": "CRMs",
+      "crmDetail": "Dominio de Salesforce y HubSpot para gestión de pipeline de clientes.",
+      "dataAi": "Datos e IA",
+      "dataAiDetail": "Familiarizada con Google Analytics y herramientas de productividad basadas en IA.",
+      "languages": "Idiomas",
+      "languagesDetail": "Francés · Inglés · Español"
+    }
+  },
+  "projects": {
+    "sectionLabel": "Impacto de proyectos",
+    "title": "Donde he marcado la diferencia",
+    "colagican": {
+      "title": "ColagiCan: De la experiencia clínica al éxito en e-commerce",
+      "vision": "Identifiqué un nicho en el mercado de bienestar animal para colágeno hidrolizado de alta calidad. Creé un puente entre la ciencia veterinaria clínica y el retail digital.",
+      "operation": "Como fundadora, gestioné el ciclo de negocio de principio a fin: desde logística de proveedores y cumplimiento administrativo hasta gestión CRM y ventas directas.",
+      "result": "Construí una marca basada en la confianza y los datos. No solo vendí un producto; gestioné una comunidad de dueños de mascotas, demostrando mi capacidad para liderar operaciones en la industria veterinaria.",
+      "competencies": "Ventas estratégicas, Cadena de suministro, Ventas B2B, Emprendimiento."
+    },
+    "hospitality": {
+      "title": "Excelencia operativa | Hotelería y recepción",
+      "environment": "Operaciones hoteleras de ritmo acelerado que requieren comunicación trilingüe constante (EN/FR/ES).",
+      "impact": "Soy el «motor operativo» de la recepción. Mi enfoque es resolver problemas complejos de los huéspedes con empatía extrema manteniendo precisión administrativa estricta. Mis supervisores reconocen mi «chispa»: la capacidad de convertir una crisis en una experiencia positiva para el huésped.",
+      "result": "Satisfacción de 5 estrellas constante y un flujo de trabajo administrativo optimizado.",
+      "competencies": "Resolución de conflictos, Comunicación trilingüe, Administración de oficina, Construcción de relaciones."
+    },
+    "atd": {
+      "title": "Recepción y soporte operativo | ATD Clubhouse",
+      "experience": "Me uní a ATD Clubhouse durante su fase de apertura. Ser parte de un nuevo negocio significó ser versátil, manejando desde los primeros saludos hasta la organización diaria de las instalaciones.",
+      "operations": "Construí las bases administrativas iniciales: gestioné cuentas de miembros, programación y pagos desde el primer día.",
+      "client": "Aproveché mi formación veterinaria para construir confianza inmediata con los dueños de mascotas, aumentando directamente la base inicial de clientes.",
+      "data": "Gestioné reportes de ventas diarios para monitorear la retención de miembros y el crecimiento del negocio.",
+      "competencies": "Adaptabilidad startup, Onboarding de clientes, Confiabilidad."
+    },
+    "clinical": {
+      "title": "Medicina veterinaria clínica | MVZ formada en el extranjero",
+      "experience": "Cinco años de práctica clínica gestionando casos médicos complejos y entornos de alta presión.",
+      "impact": "Manejé consultas complejas y logística médica, demostrando mi capacidad para mantener la calma y precisión en situaciones de vida o muerte.",
+      "communication": "Coordiné campañas de salud pública y serví como enlace vital entre equipos médicos y clientes, asegurando una comunicación clara de información técnica.",
+      "rigor": "Mantuve registros médicos meticulosos y cumplimiento estricto de protocolos de seguridad.",
+      "competencies": "Gestión de crisis, Coordinación estratégica, Logística clínica, Comunicación técnica."
+    }
+  },
+  "credentials": {
+    "sectionLabel": "Galería de credenciales",
+    "title": "Certificados y logros"
+  },
+  "contact": {
+    "sectionLabel": "Conectemos",
+    "title": "Lista para sumergirme",
+    "tagline": "Siempre lista para sumergirme en nuevos sistemas, datos desordenados y relaciones con clientes de alto impacto.",
+    "cta": "¡Conectemos!",
+    "linkedin": "LinkedIn",
+    "email": "Correo",
+    "downloadCv": "Descargar CV"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "about": "À propos",
+    "journey": "Parcours",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "credentials": "Certifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Montse",
+    "tagline": "Professionnelle en succès client et opérations",
+    "subtitle": "Je me connecte naturellement avec les gens et transforme les défis en résultats positifs :)",
+    "cta": "Découvrir mon parcours",
+    "badges": {
+      "dvm": "Docteure en médecine vétérinaire",
+      "trilingual": "EN · FR · ES",
+      "zumba": "Instructrice Zumba certifiée",
+      "data": "Spécialiste du service client"
+    }
+  },
+  "about": {
+    "sectionLabel": "Qui je suis",
+    "title": "Opérations et succès client",
+    "intro": "Je suis une professionnelle en opérations et succès client avec une expérience hybride en hôtellerie haut de gamme, e-commerce et médecine vétérinaire.",
+    "goal": "Ma carrière repose sur un objectif simple mais puissant : optimiser les processus complexes pour que les gens repartent plus heureux et plus accomplis.",
+    "clinical": {
+      "title": "Discipline clinique et leadership énergique",
+      "text": "En tant que vétérinaire formée à l'étranger (DVM) et instructrice Zumba certifiée, j'apporte un mélange unique de précision analytique et de vitalité contagieuse à tout ce que je fais."
+    },
+    "tech": {
+      "title": "L'avantage tech et données",
+      "text": "Avec une formation en marketing digital et e-commerce, je fais le pont entre les données et la connexion humaine. Excel est mon terrain de jeu préféré."
+    }
+  },
+  "journey": {
+    "sectionLabel": "Au-delà du CV",
+    "title": "Mon parcours",
+    "narrative": "Immigrer au Canada en tant que <strong>vétérinaire formée à l'étranger (DVM)</strong> a été une véritable masterclass en <strong>adaptabilité, résilience et communication</strong>. <br><br>J'ai vécu de première main ce que c'est que de naviguer dans de nouveaux systèmes, de nouvelles langues et des environnements inconnus — et c'est exactement ce qui a façonné mon approche des rôles orientés vers <strong>le succès client</strong>.",
+    "quote": "Je ne fais pas que résoudre des problèmes ; j'accompagne les gens dans leurs moments de confusion, d'incertitude ou de frustration avec <strong>patience, clarté et empathie</strong>.",
+    "sparkle": "Mes anciens mentors décrivent souvent ma présence comme ayant une <strong>« étincelle »</strong>, mais je vois cela comme une passion sincère pour rendre la journée des gens <strong>plus facile, plus calme et meilleure</strong>."
+  },
+  "playground": {
+    "sectionLabel": "Le terrain de jeu des données",
+    "title": "Efficacité d'affaires via Excel",
+    "subtitle": "Transformer des données désordonnées en outils stratégiques",
+    "description": "Je développe des trackers automatisés et des tableaux de bord avec Excel avancé — Tableaux croisés dynamiques, RECHERCHEV, Logique complexe.",
+    "funFact": "Fait amusant : J'adore Excel, c'est comme mon petit terrain de jeu favori.",
+    "impact": "Réduction du temps de reporting manuel et amélioration de la précision du suivi des indicateurs clés.",
+    "skills": {
+      "pivot": "Tableaux croisés dynamiques",
+      "vlookup": "RECHERCHEV",
+      "formulas": "Formules complexes",
+      "automation": "Automatisation",
+      "dashboards": "Tableaux de bord",
+      "reporting": "Rapports d'affaires"
+    }
+  },
+  "skills": {
+    "sectionLabel": "Compétences et certifications",
+    "title": "Ce que j'apporte",
+    "education": {
+      "title": "Formation professionnelle",
+      "dvm": "Docteure en médecine vétérinaire (DVM)",
+      "digital": "Certificat en marketing digital et e-commerce"
+    },
+    "certifications": {
+      "title": "Certifications principales",
+      "data": "Certificat professionnel Google Data Analytics",
+      "excel": "Excel avancé et intelligence d'affaires",
+      "service": "Certification en excellence du service client",
+      "client": "Relations client stratégiques et communication",
+      "zumba": "Zumba + Premiers soins"
+    },
+    "toolkit": {
+      "title": "Boîte à outils technique",
+      "excel": "Excel avancé",
+      "excelDetail": "Tableaux croisés dynamiques, RECHERCHEV, formules complexes — mon terrain de jeu favori.",
+      "crm": "CRMs",
+      "crmDetail": "Maîtrise de Salesforce et HubSpot pour la gestion de pipeline clients.",
+      "dataAi": "Données et IA",
+      "dataAiDetail": "Familière avec Google Analytics et les outils de productivité basés sur l'IA.",
+      "languages": "Langues",
+      "languagesDetail": "Français · Anglais · Espagnol"
+    }
+  },
+  "projects": {
+    "sectionLabel": "Impact des projets",
+    "title": "Là où j'ai fait la différence",
+    "colagican": {
+      "title": "ColagiCan : De l'expertise clinique au succès e-commerce",
+      "vision": "J'ai identifié une niche sur le marché du bien-être animal pour un collagène hydrolysé de haute qualité. J'ai fait le pont entre la science vétérinaire clinique et la vente au détail numérique.",
+      "operation": "En tant que fondatrice, j'ai géré le cycle commercial de bout en bout : de la logistique des fournisseurs et de la conformité administrative à la gestion du CRM et aux ventes directes.",
+      "result": "J'ai bâti une marque basée sur la confiance et les données. Au-delà de vendre un produit, j'ai animé une communauté de propriétaires d'animaux, prouvant ma capacité à diriger des opérations commerciales au sein de l'industrie vétérinaire.",
+      "competencies": "Ventes stratégiques, Gestion de la chaîne d'approvisionnement, Ventes B2B, Entrepreneuriat."
+    },
+    "hospitality": {
+      "title": "Excellence opérationnelle | Hôtellerie et réception",
+      "environment": "Opérations hôtelières très dynamiques, exigeant une communication trilingue constante (EN/FR/ES).",
+      "impact": "J'agis comme le « moteur opérationnel » de la réception. Mon objectif est de résoudre des problèmes complexes des clients avec une extrême empathie tout en maintenant une précision administrative stricte. Mes superviseurs reconnaissent mon « étincelle » : ma capacité à transformer une crise en une expérience client positive.",
+      "result": "Une satisfaction client constante de 5 étoiles et un flux de travail administratif optimisé.",
+      "competencies": "Résolution de conflits, Communication trilingue, Administration de bureau, Établissement de relations."
+    },
+    "atd": {
+      "title": "Réception et support opérationnel | ATD Clubhouse",
+      "experience": "J'ai rejoint ATD Clubhouse lors de sa phase d'ouverture. Faire partie d'une nouvelle entreprise exigeait de la polyvalence, m'occupant de tout, des premiers accueils clients à l'organisation quotidienne des installations.",
+      "operations": "J'ai bâti les fondations administratives initiales : gestion des comptes membres, planification et paiements dès le premier jour.",
+      "client": "J'ai mis à profit mon expérience vétérinaire pour instaurer une confiance immédiate avec les propriétaires d'animaux, augmentant directement la clientèle initiale.",
+      "data": "J'ai géré les rapports de ventes quotidiens pour le suivi de la rétention des membres et la croissance de l'entreprise.",
+      "competencies": "Adaptabilité startup, Intégration client, Fiabilité."
+    },
+    "clinical": {
+      "title": "Médecine vétérinaire clinique | DVM formée à l'étranger",
+      "experience": "Cinq ans de pratique clinique gérant des cas médicaux complexes et des environnements sous haute pression.",
+      "impact": "J'ai géré des consultations complexes et la logistique médicale, prouvant ma capacité à rester calme et précise dans des situations de vie ou de mort.",
+      "communication": "J'ai coordonné des campagnes de santé publique et servi de lien vital entre les équipes médicales et les clients, assurant une communication claire d'informations techniques.",
+      "rigor": "J'ai maintenu des dossiers médicaux méticuleux et respecté strictement les protocoles de sécurité.",
+      "competencies": "Gestion de crise, Coordination stratégique, Logistique clinique, Communication technique."
+    }
+  },
+  "credentials": {
+    "sectionLabel": "Galerie de certifications",
+    "title": "Certificats et réalisations"
+  },
+  "contact": {
+    "sectionLabel": "Connectons-nous",
+    "title": "Prête à plonger",
+    "tagline": "Toujours prête à plonger dans de nouveaux systèmes, des données désordonnées et des relations client à enjeux élevés.",
+    "cta": "Connectons-nous !",
+    "linkedin": "LinkedIn",
+    "email": "Courriel",
+    "downloadCv": "Télécharger le CV"
+  }
+}

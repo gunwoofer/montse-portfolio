@@ -1,0 +1,120 @@
+/* Component-specific styles for app root */
+
+/* Hero image ring animation */
+.hero-image-ring {
+  animation: ring-pulse 3s ease-in-out infinite;
+}
+
+@keyframes ring-pulse {
+  0%, 100% { transform: scale(1); opacity: 0.6; }
+  50% { transform: scale(1.08); opacity: 0.3; }
+}
+
+/* Terminal blinking cursor */
+.terminal-cursor {
+  display: inline-block;
+  width: 10px;
+  height: 1.2em;
+  background: #14b8a6;
+  vertical-align: text-bottom;
+  animation: terminal-blink 1s step-end infinite;
+  margin-left: 2px;
+}
+
+@keyframes terminal-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Skill tag pulse on hover */
+.skill-tag {
+  transition: all 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.skill-tag:hover {
+  transform: scale(1.08) translateY(-2px);
+}
+
+/* Journey timeline connector */
+.journey-connector {
+  background: linear-gradient(180deg, #7c3aed 0%, #f97316 50%, #14b8a6 100%);
+}
+
+/* Project card expand transition */
+.project-card-body {
+  transition: max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+  overflow: hidden;
+}
+
+/* Credential image hover zoom */
+.credential-img {
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.credential-img:hover {
+  transform: scale(1.05);
+}
+
+/* Bento grid item hover */
+.bento-item {
+  transition: transform 0.3s cubic-bezier(0.33, 1, 0.68, 1),
+              box-shadow 0.3s ease;
+}
+.bento-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -8px rgba(124, 58, 237, 0.15);
+}
+
+/* Nav active indicator */
+.nav-pill {
+  transition: all 0.3s cubic-bezier(0.33, 1, 0.68, 1);
+}
+
+/* Language switcher */
+.lang-btn {
+  transition: all 0.2s ease;
+}
+.lang-btn.active {
+  background: linear-gradient(135deg, #7c3aed, #ec4899);
+  color: white;
+}
+
+/* Mobile menu slide */
+.mobile-menu {
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+              opacity 0.35s ease;
+}
+.mobile-menu.closed {
+  transform: translateX(100%);
+  opacity: 0;
+}
+.mobile-menu.open {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+/* Lightbox backdrop */
+.lightbox-backdrop {
+  animation: fade-in 0.2s ease;
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Gradient orb background effect */
+.gradient-orb {
+  filter: blur(80px);
+  animation: orb-drift 8s ease-in-out infinite alternate;
+}
+@keyframes orb-drift {
+  0% { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(30px, -20px) scale(1.1); }
+}
+
+/* Contact section wave */
+.contact-bg {
+  background: linear-gradient(135deg,
+    rgba(124, 58, 237, 0.06) 0%,
+    rgba(249, 115, 22, 0.04) 50%,
+    rgba(20, 184, 166, 0.06) 100%
+  );
+}
