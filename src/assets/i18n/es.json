@@ -3,16 +3,16 @@
     "about": "Sobre mí",
     "journey": "Mi trayectoria",
     "expertise": "Experiencia",
-    "data": "Excel",
+    "data": "Datos e IA",
     "projects": "Proyectos",
     "credentials": "Credenciales",
     "contact": "Contacto"
   },
   "hero": {
     "greeting": "Hola, soy",
-    "name": "Montse",
+    "name": "Montserrat",
     "tagline": "Conectando el servicio humano con el crecimiento estratégico.",
-    "subtitle": "Soy alguien que aporta calma, claridad y energía positiva a cada interacción con el cliente :)",
+    "subtitle": "Aporto calma, claridad y energía positiva a cada interacción con el cliente.",
     "cta": "Explorar mi trayectoria",
     "badges": {
       "dvm": "Crecimiento del Mercado",
@@ -32,7 +32,7 @@
     },
     "tech": {
       "title": "La ventaja tech y datos",
-      "text": "Con formación en marketing digital y e-commerce, conecto los datos con la conexión humana, usando Excel avanzado."
+      "text": "Con formación en marketing digital y e-commerce, conecto los datos con la conexión humana, usando Excel avanzado y Skills de IA personalizadas que creo en Claude."
     }
   },
   "journey": {
@@ -43,19 +43,19 @@
     "sparkle": "Mis antiguos mentores suelen describir mi presencia como tener una <strong>'chispa'</strong>, pero lo veo como una pasión genuina por hacer el día de las personas <strong>más fácil, más tranquilo y mejor</strong>."
   },
   "playground": {
-    "sectionLabel": "El playground de datos",
-    "title": "Eficiencia empresarial vía Excel",
-    "subtitle": "Convirtiendo datos desordenados en herramientas estratégicas",
-    "description": "Desarrollo trackers automatizados y dashboards usando Excel avanzado: Tablas dinámicas, BUSCARV, Lógica compleja.",
-    "funFact": "Dato curioso: Me encanta Excel, es como mi pequeño playground favorito.",
-    "impact": "Reducción del tiempo de reportes manuales y mejora en la precisión del seguimiento de indicadores clave.",
+    "sectionLabel": "El playground de datos e IA",
+    "title": "De las hojas de cálculo a Skills de IA personalizadas",
+    "subtitle": "Convirtiendo trabajo manual en flujos automatizados e inteligentes",
+    "description": "Más allá del Excel avanzado (tablas dinámicas, BUSCARV, paneles), creo Skills de IA personalizadas en Claude que ahorran horas reales: renombrar y organizar documentos, subir archivos automáticamente a la plataforma de trabajo, y redactar correos de venta B2B y anuncios para COLAGICAN.",
+    "funFact": "Dato curioso: mi 'playground' favorito evolucionó, de las fórmulas de Excel a crear mis propias Skills en Claude.",
+    "impact": "Reduje el tiempo de reportes manuales y de gestión de casos, mejorando la precisión y consistencia tanto en flujos automatizados con IA como en los basados en Excel.",
     "skills": {
+      "claudeSkills": "Skills de Claude",
+      "aiAutomation": "Automatización con IA",
+      "aiContent": "Contenido redactado con IA",
       "pivot": "Tablas dinámicas",
       "vlookup": "BUSCARV",
-      "formulas": "Fórmulas complejas",
-      "automation": "Automatización",
-      "dashboards": "Dashboards",
-      "reporting": "Reportes de negocio"
+      "dashboards": "Dashboards"
     }
   },
   "skills": {
@@ -80,8 +80,8 @@
       "excelDetail": "Tablas dinámicas, BUSCARV, fórmulas complejas",
       "crm": "CRMs",
       "crmDetail": "Dominio de Salesforce y HubSpot para gestión de pipeline de clientes.",
-      "dataAi": "Datos e IA",
-      "dataAiDetail": "Familiarizada con Google Analytics y herramientas de productividad basadas en IA.",
+      "dataAi": "Automatización con IA",
+      "dataAiDetail": "Certificada en IA de Google y Claude. Creo Skills personalizadas en Claude para agilizar la gestión de casos y potenciar el marketing de COLAGICAN.",
       "languages": "Idiomas",
       "languagesDetail": "Francés · Inglés · Español"
     }
@@ -91,13 +91,23 @@
     "title": "Donde he marcado la diferencia",
     "colagican": {
       "title": "Fundadora y CEO – COLAGICAN",
+      "summary": "COLAGICAN es la marca de suplementos para mascotas que fundé y dirijo de principio a fin, desde el producto hasta las ventas B2B.",
       "vision": "Identifiqué un nicho en el mercado de bienestar animal para colágeno hidrolizado de alta calidad. Creé un puente entre la ciencia veterinaria clínica y el retail digital.",
       "operation": "Como fundadora, gestioné el ciclo de negocio de principio a fin: desde logística de proveedores y cumplimiento administrativo hasta gestión CRM y ventas directas.",
       "result": "Construí una marca basada en la confianza y los datos. No solo vendí un producto; gestioné una comunidad de dueños de mascotas, demostrando mi capacidad para liderar operaciones en la industria veterinaria.",
       "competencies": "Ventas estratégicas, Cadena de suministro, Ventas B2B, Emprendimiento."
     },
+    "clearestate": {
+      "title": "Asociada de Éxito del Cliente – ClearEstate",
+      "summary": "ClearEstate es una plataforma legal-tech donde trabajé como Asociada de Éxito del Cliente, gestionando casos bilingües de alto volumen.",
+      "context": "A cargo de la bandeja de entrada compartida del equipo en ClearEstate, brindando soporte bilingüe (inglés/francés) por teléfono, correo y chat en 40 a 45 casos de clientes al día, muchas veces en situaciones sensibles y con tiempos ajustados.",
+      "execution": "Lideré el onboarding de clientes desde la primera llamada hasta la documentación firmada, verifiqué la precisión de los archivos durante todo el ciclo del caso, y señalé problemas recurrentes para mejorar los procesos del equipo. Creé Skills de IA personalizadas en Claude para agilizar el trabajo diario.",
+      "result": "Mejoré los tiempos de resolución y la calidad de los casos como parte de un equipo de 5 personas, además de fortalecer el ambiente de trabajo con iniciativas como un reto de pasos y una liga de Mundial en la oficina.",
+      "competencies": "Soporte Bilingüe al Cliente, Gestión de Casos, Mejora de Procesos, Automatización con IA."
+    },
     "hospitality": {
       "title": "Recepción y Soporte Operacional | Tru by Hilton Montréal",
+      "summary": "Tru by Hilton Montréal es un hotel en el centro de la ciudad donde apoyé en recepción y operaciones como parte del equipo de apertura.",
       "environment": "Operaciones hoteleras de ritmo acelerado que requieren comunicación trilingüe constante (EN/FR/ES).",
       "impact": "Soy el «motor operativo» de la recepción. Mi enfoque es resolver problemas complejos de los huéspedes con empatía extrema manteniendo precisión administrativa estricta. Mis supervisores reconocen mi «chispa»: la capacidad de convertir una crisis en una experiencia positiva para el huésped.",
       "result": "Satisfacción de 5 estrellas constante y un flujo de trabajo administrativo optimizado.",
@@ -105,6 +115,7 @@
     },
     "atd": {
       "title": "Recepción y soporte operativo | ATD Clubhouse",
+      "summary": "ATD Clubhouse es un club deportivo privado al que me uní como Recepcionista y Asistente Administrativa durante su apertura.",
       "experience": "Me uní a ATD Clubhouse durante su fase de apertura. Ser parte de un nuevo negocio significó ser versátil, manejando desde los primeros saludos hasta la organización diaria de las instalaciones.",
       "operations": "Construí las bases administrativas iniciales: gestioné cuentas de miembros, programación y pagos desde el primer día.",
       "client": "Aproveché mi formación veterinaria para construir confianza inmediata con los dueños de mascotas, aumentando directamente la base inicial de clientes.",
@@ -113,11 +124,21 @@
     },
     "clinical": {
       "title": "Medicina veterinaria clínica | MVZ formada en el extranjero",
+      "summary": "Clínicas veterinarias privadas en México, donde ejercí como Veterinaria licenciada durante cinco años.",
       "experience": "Cinco años de práctica clínica gestionando casos médicos complejos y entornos de alta presión.",
       "impact": "Manejé consultas complejas y logística médica, demostrando mi capacidad para mantener la calma y precisión en situaciones de vida o muerte.",
       "communication": "Coordiné campañas de salud pública y serví como enlace vital entre equipos médicos y clientes, asegurando una comunicación clara de información técnica.",
       "rigor": "Mantuve registros médicos meticulosos y cumplimiento estricto de protocolos de seguridad.",
+      "funFact": "Pasé seis meses trabajando en un zoológico, cuidando manatíes.",
       "competencies": "Gestión de crisis, Coordinación estratégica, Logística clínica, Comunicación técnica."
+    },
+    "royalvet": {
+      "title": "Práctica Clínica Veterinaria | Royal Vet, Montreal",
+      "summary": "Royal Vet es una clínica veterinaria en Montreal donde realicé una práctica clínica como parte de mi formación en medicina veterinaria.",
+      "context": "Realicé una práctica clínica en medicina veterinaria en Royal Vet, Montreal, apoyando en tareas de anestesia y manejo animal durante consultas y procedimientos en una clínica de alto volumen.",
+      "execution": "Apoyé en exámenes previos a la consulta y exámenes médicos generales, manteniendo los expedientes completos y precisos.",
+      "result": "Expliqué medicamentos y procesos clínicos a los dueños de mascotas en lenguaje claro, generando confianza y cumplimiento en los seguimientos.",
+      "competencies": "Práctica Clínica Veterinaria, Asistencia en Anestesia, Comunicación con Clientes, Registro Médico."
     }
   },
   "credentials": {

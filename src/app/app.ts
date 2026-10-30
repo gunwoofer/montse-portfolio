@@ -47,12 +47,12 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
   ];
 
   playgroundSkills = [
+    { icon: '🤖', key: 'playground.skills.claudeSkills' },
+    { icon: '⚡', key: 'playground.skills.aiAutomation' },
+    { icon: '✉️', key: 'playground.skills.aiContent' },
     { icon: '📊', key: 'playground.skills.pivot' },
     { icon: '🔍', key: 'playground.skills.vlookup' },
-    { icon: '🧮', key: 'playground.skills.formulas' },
-    { icon: '⚙️', key: 'playground.skills.automation' },
     { icon: '📈', key: 'playground.skills.dashboards' },
-    { icon: '📋', key: 'playground.skills.reporting' },
   ];
 
   toolkitItems = [
@@ -84,17 +84,22 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
 
   credentials = [
     { image: 'assets/images/vet-degree.png', title: 'Doctor of Veterinary Medicine Degree' },
+    { image: 'assets/images/cert-greystone.png', title: 'Greystone College Certificate' },
+    { image: 'assets/images/cert-digital-marketing-simternship.png', title: 'Digital Marketing Simternship' },
+    { image: 'assets/images/cert-claude-intro.png', title: 'Claude 101' },
+    { image: 'assets/images/cert-claude-cowork.png', title: 'Introduction to Claude Cowork' },
+    { image: 'assets/images/cert-ai-fluency.png', title: 'AI Fluency: Framework and Foundations' },
+    { image: 'assets/images/cert-google-ai-essentials.png', title: 'Google AI Essentials' },
     { image: 'assets/images/cert-microsoft-365-administration.jpg', title: 'Microsoft 365 Administration' },
-    { image: 'assets/images/cert-administrative-human-resources.jpg', title: 'Administrative and Human Resources' },
-    { image: 'assets/images/cert-ai-marketing.jpg', title: 'AI Marketing' },
     { image: 'assets/images/cert-excel-copilot-pivot-tables.jpg', title: 'Excel Copilot and Pivot Tables' },
+    { image: 'assets/images/cert-ai-marketing.jpg', title: 'AI Marketing' },
+    { image: 'assets/images/cert-ai-ads.png', title: 'AI Automation and Ads' },
     { image: 'assets/images/cert-google-ads-display.png', title: 'Google Ads Display' },
     { image: 'assets/images/cert-data-driven-research-design.png', title: 'Data-Driven Research Design' },
-    { image: 'assets/images/cert-digital-marketing-simternship.png', title: 'Digital Marketing Simternship' },
-    { image: 'assets/images/cert-ai-ads.png', title: 'AI Automation and Ads' },
     { image: 'assets/images/cert-digital-marketing-foundations.png', title: 'Digital Marketing Foundations' },
-    { image: 'assets/images/cert-greystone.png', title: 'Greystone College Certificate' },
+    { image: 'assets/images/cert-administrative-human-resources.jpg', title: 'Administrative and Human Resources' },
     { image: 'assets/images/cert-client-service.png', title: 'Client Service Excellence' },
+    { image: 'assets/images/cert-workplace-first-aid.png', title: 'Workplace First Aid' },
   ];
 
   projects = [
@@ -103,6 +108,12 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
       image: 'assets/images/project-colagican.png',
       accent: 'from-teal-400 to-emerald-500',
       accentBg: 'bg-teal-50',
+    },
+    {
+      id: 'clearestate',
+      image: 'assets/images/project-clearestate.jpg',
+      accent: 'from-sky-400 to-blue-500',
+      accentBg: 'bg-sky-50',
     },
     {
       id: 'atd',
@@ -115,6 +126,12 @@ export class App implements OnInit, AfterViewInit, OnDestroy {
       image: 'assets/images/montse_vet.png',
       accent: 'from-blue-400 to-cyan-500',
       accentBg: 'bg-blue-50',
+    },
+    {
+      id: 'royalvet',
+      image: 'assets/images/project-royalvet.png',
+      accent: 'from-indigo-400 to-slate-700',
+      accentBg: 'bg-indigo-50',
     },
     {
       id: 'hospitality',

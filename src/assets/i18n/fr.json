@@ -3,16 +3,16 @@
     "about": "À propos",
     "journey": "Mon parcours",
     "expertise": "Expertise",
-    "data": "Excel",
+    "data": "Données et IA",
     "projects": "Projets",
     "credentials": "Certifications",
     "contact": "Contact"
   },
   "hero": {
     "greeting": "Bonjour, je suis",
-    "name": "Montse",
+    "name": "Montserrat",
     "tagline": "Connecter le service centré sur l'humain à la croissance stratégique.",
-    "subtitle": "Je suis quelqu'un qui apporte du calme, de la clarté et une énergie positive dans chaque interaction client :)",
+    "subtitle": "J'apporte du calme, de la clarté et une énergie positive à chaque interaction client.",
     "cta": "Découvrir mon parcours",
     "badges": {
       "data": "Stratégie de succès client",
@@ -32,7 +32,7 @@
     },
     "tech": {
       "title": "L'avantage tech et données",
-      "text": "Avec une formation en marketing digital et e-commerce, je fais le pont entre les données et la connexion humaine, en utilisant Excel avancé."
+      "text": "Avec une formation en marketing digital et e-commerce, je fais le pont entre les données et la connexion humaine, en utilisant Excel avancé et des Skills IA personnalisées que je crée dans Claude."
     }
   },
   "journey": {
@@ -43,19 +43,19 @@
     "sparkle": "Mes anciens mentors décrivent souvent ma présence comme ayant une <strong>« étincelle »</strong>, mais je vois cela comme une passion sincère pour rendre la journée des gens <strong>plus facile, plus calme et meilleure</strong>."
   },
   "playground": {
-    "sectionLabel": "Le terrain de jeu des données",
-    "title": "Efficacité d'affaires via Excel",
-    "subtitle": "Transformer des données désordonnées en outils stratégiques",
-    "description": "Je développe des trackers automatisés et des tableaux de bord avec Excel avancé: Tableaux croisés dynamiques, RECHERCHEV, Logique complexe.",
-    "funFact": "Fait amusant : J'adore Excel, c'est comme mon petit terrain de jeu favori.",
-    "impact": "Réduction du temps de reporting manuel et amélioration de la précision du suivi des indicateurs clés.",
+    "sectionLabel": "Le terrain de jeu des données et de l'IA",
+    "title": "Des tableurs aux Skills IA personnalisées",
+    "subtitle": "Transformer le travail manuel en flux automatisés et intelligents",
+    "description": "Au-delà d'Excel avancé (tableaux croisés dynamiques, RECHERCHEV, tableaux de bord), je crée des Skills IA personnalisées avec Claude qui font gagner de vraies heures : renommer et organiser des documents, téléverser automatiquement des fichiers sur la plateforme de travail, et rédiger des e-mails de vente B2B et des annonces pour COLAGICAN.",
+    "funFact": "Anecdote : mon 'terrain de jeu' préféré a évolué, des formules Excel à la création de mes propres Skills Claude.",
+    "impact": "J'ai réduit le temps consacré aux rapports manuels et à la gestion des dossiers, tout en améliorant la précision et la cohérence des flux automatisés par IA comme de ceux basés sur Excel.",
     "skills": {
+      "claudeSkills": "Skills Claude",
+      "aiAutomation": "Automatisation IA",
+      "aiContent": "Contenu rédigé par IA",
       "pivot": "Tableaux croisés dynamiques",
       "vlookup": "RECHERCHEV",
-      "formulas": "Formules complexes",
-      "automation": "Automatisation",
-      "dashboards": "Tableaux de bord",
-      "reporting": "Rapports d'affaires"
+      "dashboards": "Tableaux de bord"
     }
   },
   "skills": {
@@ -80,8 +80,8 @@
       "excelDetail": "Tableaux croisés dynamiques, RECHERCHEV, formules complexes",
       "crm": "CRMs",
       "crmDetail": "Maîtrise de Salesforce et HubSpot pour la gestion de pipeline clients.",
-      "dataAi": "Données et IA",
-      "dataAiDetail": "Familière avec Google Analytics et les outils de productivité basés sur l'IA.",
+      "dataAi": "Automatisation IA",
+      "dataAiDetail": "Certifiée en IA Google et Claude. Je crée des Skills Claude personnalisées pour accélérer la gestion des dossiers et le marketing de COLAGICAN.",
       "languages": "Langues",
       "languagesDetail": "Français · Anglais · Espagnol"
     }
@@ -91,13 +91,23 @@
     "title": "Là où j'ai fait la différence",
     "colagican": {
       "title": "Fondatrice et CEO – COLAGICAN",
+      "summary": "COLAGICAN est la marque de suppléments pour animaux que j'ai fondée et que je dirige de bout en bout, du produit aux ventes B2B.",
       "vision": "J'ai identifié une niche sur le marché du bien-être animal pour un collagène hydrolysé de haute qualité. J'ai fait le pont entre la science vétérinaire clinique et la vente au détail numérique.",
       "operation": "En tant que fondatrice, j'ai géré le cycle commercial de bout en bout : de la logistique des fournisseurs et de la conformité administrative à la gestion du CRM et aux ventes directes.",
       "result": "J'ai bâti une marque basée sur la confiance et les données. Au-delà de vendre un produit, j'ai animé une communauté de propriétaires d'animaux, prouvant ma capacité à diriger des opérations commerciales au sein de l'industrie vétérinaire.",
       "competencies": "Ventes stratégiques, Gestion de la chaîne d'approvisionnement, Ventes B2B, Entrepreneuriat."
     },
+    "clearestate": {
+      "title": "Associée Succès Client – ClearEstate",
+      "summary": "ClearEstate est une plateforme legal-tech où j'ai travaillé comme Associée Succès Client, gérant des dossiers bilingues à fort volume.",
+      "context": "Responsable de la boîte de réception partagée de l'équipe chez ClearEstate, offrant un support bilingue (anglais/français) par téléphone, e-mail et chat sur 40 à 45 dossiers clients par jour, souvent dans des situations sensibles et sous pression de temps.",
+      "execution": "J'ai piloté l'intégration des clients, du premier appel jusqu'à la documentation signée, vérifié l'exactitude des dossiers tout au long de leur cycle de vie, et signalé les problèmes récurrents pour améliorer les processus de l'équipe. J'ai créé des Skills IA personnalisées dans Claude pour accélérer le travail quotidien.",
+      "result": "J'ai amélioré les délais de résolution et la qualité des dossiers au sein d'une équipe de 5 personnes, tout en renforçant la cohésion grâce à des initiatives comme un défi de pas et une ligue de Coupe du Monde au bureau.",
+      "competencies": "Support Client Bilingue, Gestion de Dossiers, Amélioration des Processus, Automatisation IA."
+    },
     "hospitality": {
       "title": "Réception et support opérationnel | Tru by Hilton Montréal",
+      "summary": "Tru by Hilton Montréal est un hôtel du centre-ville où j'ai soutenu la réception et les opérations au sein de l'équipe d'ouverture.",
       "environment": "Opérations hôtelières très dynamiques, exigeant une communication trilingue constante (EN/FR/ES).",
       "impact": "J'agis comme le « moteur opérationnel » de la réception. Mon objectif est de résoudre des problèmes complexes des clients avec une extrême empathie tout en maintenant une précision administrative stricte. Mes superviseurs reconnaissent mon « étincelle » : ma capacité à transformer une crise en une expérience client positive.",
       "result": "Une satisfaction client constante de 5 étoiles et un flux de travail administratif optimisé.",
@@ -105,6 +115,7 @@
     },
     "atd": {
       "title": "Réception et support opérationnel | ATD Clubhouse",
+      "summary": "ATD Clubhouse est un club sportif privé que j'ai rejoint comme Réceptionniste et Assistante Administrative lors de son ouverture.",
       "experience": "J'ai rejoint ATD Clubhouse lors de sa phase d'ouverture. Faire partie d'une nouvelle entreprise exigeait de la polyvalence, m'occupant de tout, des premiers accueils clients à l'organisation quotidienne des installations.",
       "operations": "J'ai bâti les fondations administratives initiales : gestion des comptes membres, planification et paiements dès le premier jour.",
       "client": "J'ai mis à profit mon expérience vétérinaire pour instaurer une confiance immédiate avec les propriétaires d'animaux, augmentant directement la clientèle initiale.",
@@ -113,11 +124,21 @@
     },
     "clinical": {
       "title": "Médecine vétérinaire clinique | DVM formée à l'étranger",
+      "summary": "Cliniques vétérinaires privées au Mexique, où j'ai exercé comme Vétérinaire diplômée pendant cinq ans.",
       "experience": "Cinq ans de pratique clinique gérant des cas médicaux complexes et des environnements sous haute pression.",
       "impact": "J'ai géré des consultations complexes et la logistique médicale, prouvant ma capacité à rester calme et précise dans des situations de vie ou de mort.",
       "communication": "J'ai coordonné des campagnes de santé publique et servi de lien vital entre les équipes médicales et les clients, assurant une communication claire d'informations techniques.",
       "rigor": "J'ai maintenu des dossiers médicaux méticuleux et respecté strictement les protocoles de sécurité.",
+      "funFact": "J'ai passé six mois à travailler dans un zoo, à prendre soin de lamantins.",
       "competencies": "Gestion de crise, Coordination stratégique, Logistique clinique, Communication technique."
+    },
+    "royalvet": {
+      "title": "Stage Clinique Vétérinaire | Royal Vet, Montréal",
+      "summary": "Royal Vet est une clinique vétérinaire à Montréal où j'ai effectué un stage clinique dans le cadre de ma formation en médecine vétérinaire.",
+      "context": "J'ai effectué un stage clinique en médecine vétérinaire chez Royal Vet, à Montréal, en assistant aux tâches d'anesthésie et à la manipulation des animaux lors des consultations et procédures dans une clinique très fréquentée.",
+      "execution": "J'ai soutenu les examens pré-consultation et les examens médicaux généraux, en maintenant des dossiers complets et précis.",
+      "result": "J'ai expliqué les médicaments et les processus cliniques aux propriétaires d'animaux dans un langage clair, renforçant la confiance et le suivi des recommandations.",
+      "competencies": "Pratique Clinique Vétérinaire, Assistance en Anesthésie, Communication Client, Tenue de Dossiers Médicaux."
     }
   },
   "credentials": {
